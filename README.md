@@ -46,3 +46,4 @@ Ainda não conto com cadastro na plataforma linkedIn por anteriormente estar aco
 
 Em desenvolvimento
 
+# workout-api
